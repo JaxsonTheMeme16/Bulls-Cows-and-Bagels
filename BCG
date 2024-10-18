@@ -3,7 +3,7 @@
 #            author:    Jaxson Santiago <jsantiago2709265@woonsocketschools.com>
 #            author:    Alaxavier Gaffney <agaffney2718031@woonsocketschools.com>
 #            author:    Kodah Herring <kherring2718138@woonsocketschools.com>
-#           version:    2024.10.8.05
+#           version:    2024.10.18
 #       description:    Bulls, Cows, and Bagels 
 
 import random
